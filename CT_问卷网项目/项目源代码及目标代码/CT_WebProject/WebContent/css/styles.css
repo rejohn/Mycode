@@ -1,0 +1,99 @@
+/* CSS Document */
+button{
+	width:22;
+}
+body {
+  font-family: 'Neuton', serif;
+ 
+  margin: 0;
+  padding: 0;
+  background: url(../images/dust.png);
+  color: rgb(31,43,51);
+}
+#scrollUp {
+bottom: 40px;
+right: 40px;
+height: 55px;
+width: 55px;
+background: url(../images/top.png) no-repeat;
+}
+#back{
+	top: 140px;
+ right: 40px;
+height: 155px;
+width: 155px;
+	background: url(images/back.png) no-repeat;
+}
+
+form {
+  font-size: 22px;
+  font-family: 黑体;
+  color: rgb( 155, 155, 242 );
+  text-align: left;
+  background-color:url(../images/dust.png);
+}
+
+
+lable.dfg {
+	width :
+  height:50px;
+  font-size: 25px;
+  font-family: 黑体;
+  color:white;
+  background-color:rgb( 155, 155, 242 );
+  margin-bottom:0px;
+   margin-top:3px;
+  text-align:center;
+   margin-bottom:0px;
+}
+.erro{
+  width :
+  height:50px;
+  font-size: 25px;
+  font-family: 黑体;
+  color:orange;
+
+  margin-bottom:0px;
+   margin-top:3px;
+  text-align:right;!important
+   margin-bottom:0px;
+}
+span{
+	align:"center";
+  font-size: 25px;
+  font-family: 黑体;
+  color:white;
+  background-color:rgb( 155, 155, 242 );
+  margin-bottom:0px;
+   margin-top:3px;
+}
+div.col-md-8{
+	text-align:center;
+	font-family: 黑体;
+	}
+
+div.dfg{
+	 height:50px;
+  font-size: 25px;
+  font-family: 黑体;
+  color:white;
+  background-color:rgb( 155, 155, 242 );
+  margin-bottom:0px;
+  margin-top:3px;
+}
+
+input.btn.btn-primary{
+	height:40px;
+	width:120px;
+	font-size:21px;
+	font-family: 黑体;
+	}
+ul #ulid{
+	width: 68px; 
+	right: 74.5px; 
+	top: 120px;
+	 position: fixed;
+	 font-family:����;
+	 font-size:21px;
+	 
+}

@@ -1,0 +1,13 @@
+H:\mycode\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+H:\mycode\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+H:\mycode\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+H:\mycode\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\TimeCountDown.exe.config
+H:\mycode\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\TimeCountDown.exe.manifest
+H:\mycode\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\TimeCountDown.application
+H:\mycode\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\TimeCountDown.exe
+H:\mycode\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\TimeCountDown.pdb
+H:\mycode\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\TimeCountDown.Properties.Resources.resources
+H:\mycode\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\TimeCountDown.exe.manifest
+H:\mycode\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\TimeCountDown.application
+H:\mycode\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\TimeCountDown.exe
+H:\mycode\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\TimeCountDown.pdb
